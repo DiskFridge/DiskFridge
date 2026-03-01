@@ -1,6 +1,7 @@
 # 🧊 DiskFridge
 
-**Physical Cold-Storage Library Interface** *Physical isolation, mechanical connection, and virtual integration*
+**Physical Cold-Storage Library Interface**
+*Physical isolation, mechanical connection, and virtual integration*
 
 ---
 
