@@ -9,6 +9,10 @@
 **Initial Development**
 
 ![Demo Animation](./demo_animation.webp)
+![](./DiskFridge_ArmBoard.png)
+![](./guide.png)
+![](./untitled5.png)
+![](./untitled6.png)
 
 ### ⚖️ License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
