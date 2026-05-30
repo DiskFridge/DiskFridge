@@ -8,7 +8,7 @@
 ### 🏗️ Project Status
 **Initial Development**
 
-<video src="./12.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src=./12.mp4 autoplay loop muted width="100%"></video>
 ![](./DiskFridge_ArmBoard.png)
 ![](./guide.png)
 ![](./Untitled5.png)
