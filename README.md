@@ -8,7 +8,7 @@
 ### 🏗️ Project Status
 **Initial Development**
 
-![Demo Animation](./demo_animation.webp)
+![Demo Animation](./12.mpm4)
 ![](./DiskFridge_ArmBoard.png)
 ![](./guide.png)
 ![](./Untitled5.png)
