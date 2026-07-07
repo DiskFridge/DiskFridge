@@ -125,6 +125,8 @@ https://github.com/user-attachments/assets/f01de7d2-5615-461f-ac4c-77f45352554f
 
 **하드디스크 고정부 개선**
 
+**디스크보드 2포트에서 3포트로 변경**
+
 ### ⚖️ License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
