@@ -5,8 +5,9 @@
 
 ---
 
-### 🏗️ Project Status
-**Initial Development**
+### 🏗️ 프로젝트 진행 현황
+**26/06/28 하드웨어 완성**
+**26/07/07 USB 데이터 송수신 무결성 테스트 통과.**
 
 ### ⚖️ License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
