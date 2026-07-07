@@ -74,6 +74,10 @@ https://github.com/user-attachments/assets/f01de7d2-5615-461f-ac4c-77f45352554f
 
 ---
 
+<img width="2296" height="4080" alt="20260707_232226" src="https://github.com/user-attachments/assets/419c9baf-30f7-4670-9250-b79d179109fd" />
+
+---
+
 ### 🏗️ 프로젝트 진행 현황
 
 **26/06/28 하드웨어 완성**
