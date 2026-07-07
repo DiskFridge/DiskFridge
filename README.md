@@ -80,9 +80,11 @@ https://github.com/user-attachments/assets/f01de7d2-5615-461f-ac4c-77f45352554f
 
 ### 🏗️ 프로젝트 진행 현황
 
-**26/06/28 하드웨어 완성**
+**하드웨어 완성 - 26/06/28**
 
-**26/07/07 USB 데이터 송수신 무결성 테스트 통과.**
+**USB 데이터 송수신 무결성 테스트 통과. - 26/07/07**
+
+**제어 프로그램 - 진행중**
 
 ### ⚖️ License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
